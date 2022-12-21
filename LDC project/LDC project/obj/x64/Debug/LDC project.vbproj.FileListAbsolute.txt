@@ -1,0 +1,100 @@
+C:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.Form1.resources
+C:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.Resources.resources
+C:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\obj\x64\Debug\LDC project.vbproj.GenerateResource.Cache
+C:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\obj\x64\Debug\LDC project.exe
+C:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\obj\x64\Debug\LDC project.xml
+C:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\obj\x64\Debug\LDC project.pdb
+C:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\LDC project.exe.config
+C:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\LDC project.exe
+C:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\LDC project.pdb
+C:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\LDC project.xml
+C:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\obj\x64\Debug\LDC project.vbproj.AssemblyReference.cache
+C:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\obj\x64\Debug\LDC project.vbproj.SuggestedBindingRedirects.cache
+C:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\obj\x64\Debug\LDC project.vbproj.CoreCompileInputs.cache
+D:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\obj\x64\Debug\LDC project.vbproj.AssemblyReference.cache
+D:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\obj\x64\Debug\LDC project.vbproj.SuggestedBindingRedirects.cache
+D:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.Form1.resources
+D:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.Resources.resources
+D:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\obj\x64\Debug\LDC project.vbproj.GenerateResource.cache
+D:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\obj\x64\Debug\LDC project.vbproj.CoreCompileInputs.cache
+D:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\obj\x64\Debug\LDC project.vbproj.CopyComplete
+D:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\LDC project.exe.config
+D:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\obj\x64\Debug\LDC project.exe
+D:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\obj\x64\Debug\LDC project.xml
+D:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\obj\x64\Debug\LDC project.pdb
+D:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\LDC project.exe
+D:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\LDC project.pdb
+D:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\LDC project.xml
+D:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\IBM.Data.DB2.dll
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\dental_project_login\LDC project\LDC project\obj\x64\Debug\LDC project.vbproj.AssemblyReference.cache
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\dental_project_login\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.Form1.resources
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\dental_project_login\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.Resources.resources
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\dental_project_login\LDC project\LDC project\obj\x64\Debug\LDC project.vbproj.GenerateResource.cache
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\dental_project_login\LDC project\LDC project\obj\x64\Debug\LDC project.vbproj.CoreCompileInputs.cache
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\dental_project_login\LDC project\LDC project\obj\x64\Debug\LDC project.vbproj.CopyComplete
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\dental_project_login\LDC project\LDC project\LDC project.exe.config
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\dental_project_login\LDC project\LDC project\obj\x64\Debug\LDC project.exe
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\dental_project_login\LDC project\LDC project\obj\x64\Debug\LDC project.xml
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\dental_project_login\LDC project\LDC project\obj\x64\Debug\LDC project.pdb
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\dental_project_login\LDC project\LDC project\LDC project.exe
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\dental_project_login\LDC project\LDC project\LDC project.pdb
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\dental_project_login\LDC project\LDC project\LDC project.xml
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\dental_project_login\LDC project\LDC project\IBM.Data.DB2.dll
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL THIS\LDC project\LDC project\obj\x64\Debug\LDC project.vbproj.AssemblyReference.cache
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL THIS\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.FrmLogin.resources
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL THIS\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.Resources.resources
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL THIS\LDC project\LDC project\obj\x64\Debug\LDC project.vbproj.GenerateResource.cache
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL THIS\LDC project\LDC project\obj\x64\Debug\LDC project.vbproj.CoreCompileInputs.cache
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL THIS\LDC project\LDC project\obj\x64\Debug\LDC project.vbproj.CopyComplete
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL THIS\LDC project\LDC project\LDC project.exe.config
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL THIS\LDC project\LDC project\obj\x64\Debug\LDC project.exe
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL THIS\LDC project\LDC project\obj\x64\Debug\LDC project.xml
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL THIS\LDC project\LDC project\obj\x64\Debug\LDC project.pdb
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL THIS\LDC project\LDC project\LDC project.exe
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL THIS\LDC project\LDC project\LDC project.pdb
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL THIS\LDC project\LDC project\LDC project.xml
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL THIS\LDC project\LDC project\IBM.Data.DB2.dll
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL THIS\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.FrmHome.resources
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL THIS\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.FrmPatientMain.resources
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL THIS\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.FrmAddPatient.resources
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\obj\x64\Debug\LDC project.vbprojResolveAssemblyReference.cache
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.FrmHome.resources
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.FrmLogin.resources
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.FrmAddPatient.resources
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.FrmNewProcedure.resources
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.FrmPatientMain.resources
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.Resources.resources
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\obj\x64\Debug\LDC project.vbproj.GenerateResource.Cache
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\obj\x64\Debug\LDC project.exe
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\obj\x64\Debug\LDC project.xml
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\obj\x64\Debug\LDC project.pdb
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\LDC project.exe.config
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\LDC project.exe
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\LDC project.pdb
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\LDC project.xml
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.FrmViewPatient.resources
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.FrmPrescription.resources
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.FrmAddTreatmentPlan.resources
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.FrmTreatmentPlan.resources
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.FrmUpdateTreatmentPlan.resources
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.testPanelFrm.resources
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.FrmPrescriptionHistory.resources
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.FrmPrintPrescription.resources
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.FrmWeeklyReports.resources
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.FrmMonthlyReports.resources
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.FrmYearlyReports.resources
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.FrmBackupRestore.resources
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.FrmAppointmentGraphical.resources
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.FrmBillingAdd.resources
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.FrmBillingMain.resources
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.FrmBillingUpdate.resources
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.FrmDentistMain.resources
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.FrmDentistUpdate.resources
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.FrmSettingsMain.resources
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.FrmStaffAdd.resources
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.FrmStaffMain.resources
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.FrmStaffUpdate.resources
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.FrmTreatmentAdd.resources
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.FrmTreatmentMain.resources
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.FrmTreatmentUpdate.resources
+D:\Documents\SILLIMAN projects\3rd year\First Sem\CCS6 Applications Dev't. & Emerging Technologies\Project\VISUAL BASIC\DENTAL\LDC project\LDC project\obj\x64\Debug\WindowsApplication1.FrmServiceHistory.resources

@@ -1,0 +1,12 @@
+C:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\bin\x64\Release\LDC project.exe.config
+C:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\bin\x64\Release\LDC project.exe
+C:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\bin\x64\Release\LDC project.pdb
+C:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\bin\x64\Release\LDC project.xml
+C:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\obj\x64\Release\WindowsApplication1.Form1.resources
+C:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\obj\x64\Release\WindowsApplication1.Resources.resources
+C:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\obj\x64\Release\LDC project.vbproj.GenerateResource.Cache
+C:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\obj\x64\Release\LDC project.exe
+C:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\obj\x64\Release\LDC project.xml
+C:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\obj\x64\Release\LDC project.pdb
+C:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\bin\x64\Release\LDC project.exe.CodeAnalysisLog.xml
+C:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\bin\x64\Release\LDC project.exe.lastcodeanalysissucceeded

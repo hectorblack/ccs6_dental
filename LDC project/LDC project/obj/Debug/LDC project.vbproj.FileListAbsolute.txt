@@ -1,0 +1,10 @@
+C:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\bin\Debug\LDC project.exe.config
+C:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\bin\Debug\LDC project.exe
+C:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\bin\Debug\LDC project.pdb
+C:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\bin\Debug\LDC project.xml
+C:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\obj\Debug\LDC project.vbproj.GenerateResource.Cache
+C:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\obj\Debug\LDC project.exe
+C:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\obj\Debug\LDC project.xml
+C:\Users\phili\Documents\Visual Studio 2012\Projects\LDC project\LDC project\obj\Debug\LDC project.pdb
